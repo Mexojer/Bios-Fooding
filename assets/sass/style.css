@@ -29,7 +29,7 @@
   color: white;
   font-size: 2em;
   font-family: 'Chewy', cursive;
-  background-image: url(/assets/img/banniere001.jpg);
+  background-image: url(./assets/img/banniere001.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -43,7 +43,7 @@
 
 .infogen {
   background-color: #6a84b7;
-  background-image: url(/assets/img/testbg02.png);
+  background-image: url(./assets/img/testbg02.png);
   background-position: center;
   background-size: contain;
 }
@@ -93,7 +93,7 @@ footer ul p {
 }
 
 .photo {
-  background-image: url(/assets/img/image_header.jpg);
+  background-image: url(./assets/img/image_header.jpg);
   height: 50em;
   background-position: center;
   background-repeat: no-repeat;
@@ -128,7 +128,7 @@ footer ul p {
 }
 
 .image {
-  background-image: url(/assets/img/restau.jpg);
+  background-image: url(./assets/img/restau.jpg);
   background-position: center;
   background-size: cover;
 }
