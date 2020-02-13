@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: #6a84b7;
+    height: 4.5em;
+    box-shadow: #fecc53 0em 0em 2em 0em;
+}
+
+.ul li a{
+    color: white;
+}
+.bio{
+    height: 3em;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Chewy', cursive;
+}
+
+.header{
+    text-align: center;
+    color: white;
+    font-size: 2em;
+    font-family: 'Chewy', cursive;
+    background-image: url(/assets/img/banniere001.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30em;
+    padding-top: 3em;
+}
+
+.imghead{
+    height: 20em;
+}
+
+.infogen{
+    background-color: #6a84b7;
+    background-image: url(/assets/img/testbg02.png);
+    background-position: center;
+    background-size: contain;
+
+}
+
+.fond{
+    background-color: #fecc53;
+}
+.intro{
+    color: white;
+    padding: 1em 3em;
+}
+
+.semaine{
+    background-color: #6a84b7;
+    width: 25em;
+}
+
+.infos{
+    background-color: white;
+    width: 25em;
+    
+}
+
+h3{
+    color: #6a84b7;
+    font-family: 'Chewy', cursive;
+}
+
+footer{
+    background-color: #6a84b7;
+    color: white;
+    text-align: center;
+    font-family: 'Chewy', cursive;
+    height: 3em;
+    padding-top: 1em;
+}
+
+footer ul li{
+    list-style: none;
+    display: inline;
+    margin: 1em;
+}
+footer ul p{
+    display: inline;
+    margin: 1em;
+}
+
+.photo{
+    background-image: url(/assets/img/image_header.jpg);
+    height: 50em;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.formulaire{
+    background-color: rgba(255, 255, 255, .4);
+    border-radius: 1em;
+    font-family: 'Chewy', cursive;
+}
+
+.tete{
+    font-size: 1.5em;
+}
+
+.prix{
+    float: right;
+    background-color: #6a84b7;
+    font-size: 0.9em;
+    border-radius: 1em;
+    color: white;
+}
+
+.map{
+    background-color: rgba(255, 255, 255, .8);
+    border-radius: 1em;
+}
+
+.menu{
+    font-family: 'Chewy', cursive;
+}
+
+.image{
+    background-image: url(/assets/img/restau.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+h5{
+    font-family: 'Chewy', cursive;
+    color: #fecc53;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
